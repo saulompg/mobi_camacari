@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "27767263097",
+    "project_id": "mobi-camacari",
+    "storage_bucket": "mobi-camacari.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27767263097:android:7c01a55ca4c5343f0729a8",
+        "android_client_info": {
+          "package_name": "com.icti.mobi_camacari"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqu3mPuze1sfmIHnvJGza4z4w2osEb-c4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

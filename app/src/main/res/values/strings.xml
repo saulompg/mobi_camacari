@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Mobi Camaçari</string>
+    <string name="title_hello">"Olá,"</string>
+    <string name="title_create_account">Crie sua Conta</string>
+    <string name="title_welcome">Bem vindo de volta</string>
+    <string name="first_name">Nome</string>
+    <string name="last_name">Sobrenome</string>
+    <string name="email">Email</string>
+    <string name="password">Senha</string>
+    <string name="confirm_password">Confirmar Senha</string>
+    <string name="hide_password">Ocultar senha</string>
+    <string name="show_password">Exibir senha</string>
+    <string name="agree">Ao continuar você aceita nossas</string>
+    <string name="privacy_policy">Políticas de Privacidade</string>
+    <string name="and">e</string>
+    <string name="terms_and_conditions">Termos de Uso</string>
+    <string name="register">Cadastrar-se</string>
+    <string name="sign_in">Entrar</string>
+    <string name="or">ou</string>
+    <string name="have_account">Já possui uma conta?</string>
+    <string name="go_to_sign_in">Entre aqui</string>
+    <string name="create_account">Ainda não possui uma conta?</string>
+    <string name="go_to_register">Cadastre-se</string>
+    <string name="forgot_password">Esqueceu sua senha?</string>
+    <string name="logout">Sair</string>
+    <string name="home">Home</string>
+</resources>
